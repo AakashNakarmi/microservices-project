@@ -1,0 +1,5 @@
+# Created at 2024-03-14T00:47:24.518
+Boot Manifest-JAR contains absolute paths in classpath 'G:\Final Year Project\Sem 8\Project\spring-microservices-main\spring-petclinic-api-gateway\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

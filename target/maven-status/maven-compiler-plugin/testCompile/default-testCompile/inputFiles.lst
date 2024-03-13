@@ -1,0 +1,4 @@
+G:\Final Year Project\Sem 8\Project\spring-microservices-main\spring-petclinic-api-gateway\src\test\java\org\springframework\samples\petclinic\api\ApiGatewayApplicationTests.java
+G:\Final Year Project\Sem 8\Project\spring-microservices-main\spring-petclinic-api-gateway\src\test\java\org\springframework\samples\petclinic\api\boundary\web\CircuitBreakerConfiguration.java
+G:\Final Year Project\Sem 8\Project\spring-microservices-main\spring-petclinic-api-gateway\src\test\java\org\springframework\samples\petclinic\api\application\VisitsServiceClientIntegrationTest.java
+G:\Final Year Project\Sem 8\Project\spring-microservices-main\spring-petclinic-api-gateway\src\test\java\org\springframework\samples\petclinic\api\boundary\web\ApiGatewayControllerTest.java
